@@ -7,6 +7,6 @@ This is a game design project created in Unity using C# scripts. All assets and 
  [Click here to Play](https://lam-alexander.github.io/MaybeAnAdventureWebGL/)
 
 ## Controls ##
-* Move the characters using Arrow keys
-* Press R to respawn
-* Torches are checkpoints for Respawn
+* Move the characters using Arrow keys.
+* Press R to respawn.
+* Torches are checkpoints for respawning, players need to touch the torch to activate.
